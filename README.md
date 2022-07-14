@@ -1,4 +1,4 @@
-# Easy Image Editor project
+# An Image Editor project
 
 This was inspired by [Coding Nepal Image Editor Project](https://youtu.be/GAdfZJEl1Vs).
 
@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git repo url](https://github.com/Plut0r/Image-editor)
-- Live Site URL: [Git live url]()
+- Live Site URL: [Git live url](https://image-editor-plut0r.netlify.app/)
 
 
 ### Built with
