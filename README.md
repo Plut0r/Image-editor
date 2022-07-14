@@ -1,6 +1,6 @@
-# IG marketing landing page project
+# Easy Image Editor project
 
-This is a solution to [Coding Nepal Image Editor Project](https://youtu.be/GAdfZJEl1Vs).
+This was inspired by [Coding Nepal Image Editor Project](https://youtu.be/GAdfZJEl1Vs).
 
 ## Table of contents
 
@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git repo url]()
+- Solution URL: [Git repo url](https://github.com/Plut0r/Image-editor)
 - Live Site URL: [Git live url]()
 
 
